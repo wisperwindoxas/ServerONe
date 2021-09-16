@@ -1,8 +1,13 @@
 {
-    "gerfull": [
+    "Kumkurgan": [
         {
-            "name": "Kolbek",
-            "age": 15
+            "LastName": "Bobonazarov",
+            "FirstName": "Abdulaziz",
+            "age": 17,
+            "courses": "Web developer",
+            "phonNumber": "+998332545856",
+            "brithDay": "21-02-2021",
+            "email": "abdulaziz@gmail.com"
         }
     ]
 }
